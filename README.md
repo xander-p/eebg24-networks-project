@@ -1,19 +1,12 @@
 # Network analysis identified novel disease module in rheumatoid arthritis
-This is a repository of the studnets' project completed during the Eastern European Bioinformatics and Computational Genomics School (July 1-12 2024, EEBG24). 
+This is a repository of the studnets' project completed during the Eastern European Bioinformatics and Computational Genomics School (July 1-12, 2024, EEBG24). 
 
 **Project contributors:** 
-Vitalina Bashynska*,
-Priman Fau*,
-Anastasiia Romanenko,
-Anastasiia Kompaniiets,
-Polina Havrysh,
-Matvii Mykhailichenko  
+Vitalina Bashynska*, Priman Fau*, Anastasiia Romanenko, Anastasiia Kompaniiets, Polina Havrysh, Matvii Mykhailichenko
 (asterisk denotes shared leading contribution)
 
 **Project observers:**
-Daria Nishchenko
-Nadiia Kasianchuk
-Felicia Iordachi
+Daria Nishchenko, Nadiia Kasianchuk, Felicia Iordachi
 
 **Project supervisor:** 
 Oleksandr Petrenko <oleksandr.petrenko@mutation.me>
