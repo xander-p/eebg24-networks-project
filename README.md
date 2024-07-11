@@ -2,13 +2,12 @@
 This is a repository of the studnets' project completed during the Eastern European Bioinformatics and Computational Genomics School (July 1-12 2024, EEBG24). 
 
 **Project contributors:** 
-Vitalina Bashynska*
-Priman Fau*
-Anastasiia Romanenko
-Anastasiia Kompaniiets
-Polina 
-Havrysh
-Matvii Mykhailichenko
+Vitalina Bashynska*,
+Priman Fau*,
+Anastasiia Romanenko,
+Anastasiia Kompaniiets,
+Polina Havrysh,
+Matvii Mykhailichenko  
 (asterisk denotes shared leading contribution)
 
 **Project observers:**
@@ -24,7 +23,7 @@ Oleksandr Petrenko <oleksandr.petrenko@mutation.me>
 | Gene    | Link to the RA [yes/no] | Source | Mechanism | Is in ClinTrials? (link) |
 |---------|-------------------------|--------|-----------|--------------------------|
 | AURKA   | yes                     | doi: 10.3389/fimmu.2023.1007624 | AURKA encodes a cell cycle-regulated kinase that appears to play a role in microtubule formation and/or spindle pole stabilization during chromosome segregation. | no |
-| BIRC3   | yes                     | [https://doi.org/10.1002/iid3.978](https://doi.org/10.1002/iid3.978) | 1) BIRC2 as an upregulated RA-specific gene 2) BIRC2 acted as a hub gene of the RA-specific protein–protein interaction network | no |
+| BIRC3   | yes                     | [https://doi.org/10.1002/iid3.978](https://doi.org/10.1002/iid3.978) | 1) BIRC2 as an upregulated RA-specific gene 2) BIRC2 acted as a hub gene of the RA-specific protein-protein interaction network | no |
 | BTLA    | yes                     | [https://doi.org/10.3389/fimmu.2021.654960](https://doi.org/10.3389/fimmu.2021.654960) | In rheumatoid arthritis (RA) patients, BTLA-expressing CD3+/CD4+/CD8+ T cell proportions are remarkably increased, and the swollen joint count is negatively correlated with the percentage of BTLA+CD8+ T cells | no |
 | CCR2    | yes                     | [https://doi.org/10.1016/j.intimp.2023.109755](https://doi.org/10.1016/j.intimp.2023.109755) | CCR2 mRNA expression and the tyrosine phosphorylation levels in CCR2 increased in a rat model of adjuvant-induced arthritis (AIA) | [https://onlinelibrary.wiley.com/doi/epdf/10.1002/art.23591](https://onlinelibrary.wiley.com/doi/epdf/10.1002/art.23591) |
 | CD2     | not really              | [https://doi.org/10.1038/ng.479](https://doi.org/10.1038/ng.479) | The CD2 protein is a co-stimulatory molecule on the surface of natural killer cells and T-cells "the strongest evidence of association to RA at rs11586238 on 1p13.1 near the CD2 and CD58 genes" | no |
